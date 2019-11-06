@@ -1,0 +1,6 @@
+# IntelliJ files
+.idea
+*.iml
+
+# course-provided testing files
+files/algs4-data
