@@ -1,4 +1,4 @@
-package main.java.io.github.marwlod.randomized_queues;
+package io.github.marwlod.randomized_queues;
 
 import edu.princeton.cs.algs4.StdRandom;
 

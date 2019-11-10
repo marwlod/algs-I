@@ -1,4 +1,4 @@
-package main.java.io.github.marwlod.percolation;
+package io.github.marwlod.percolation;
 
 public class QuickFindUF {
     private int[] id;

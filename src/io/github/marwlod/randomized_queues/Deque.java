@@ -1,4 +1,4 @@
-package main.java.io.github.marwlod.randomized_queues;
+package io.github.marwlod.randomized_queues;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

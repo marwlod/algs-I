@@ -1,4 +1,4 @@
-package main.java.io.github.marwlod.percolation;
+package io.github.marwlod.percolation;
 
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;

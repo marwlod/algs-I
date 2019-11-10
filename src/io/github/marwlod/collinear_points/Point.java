@@ -1,4 +1,4 @@
-package main.java.io.github.marwlod.collinear_points;
+package io.github.marwlod.collinear_points;
 
 import edu.princeton.cs.algs4.StdDraw;
 

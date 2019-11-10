@@ -1,4 +1,4 @@
-package main.java.io.github.marwlod.puzzle8;
+package io.github.marwlod.puzzle8;
 
 import java.util.Arrays;
 
